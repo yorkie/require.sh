@@ -1,0 +1,18 @@
+{
+  "name": "require.sh",
+  "version": "0.0.1",
+  "description": "shell to require other shell like NodeJS",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yorkie/require.sh.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/require.sh/issues"
+  },
+  "homepage": "https://github.com/yorkie/require.sh",
+  "bin": { "require": "require" },
+  "scripts": {
+    "test": "sh test.sh"
+  }
+}

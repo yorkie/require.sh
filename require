@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+Pwd=$PWD
+
+cd $(dirname $1)
+sh $(basename $1)
+
+cd $Pwd
