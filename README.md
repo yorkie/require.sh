@@ -14,12 +14,12 @@ $ npm install -g require.sh
 Just like following in your script:
 
 ```bash
-./require example.sh
+require example.sh
 ```
 
 ### Test
 
-```js
+```bash
 $ npm test
 ```
 
